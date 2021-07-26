@@ -1,4 +1,5 @@
 #!/usr/usr/env python3
+# pylint: skip-file
 
 import argparse
 import glob
